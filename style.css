@@ -453,19 +453,19 @@ li {
     }
 
 .scrbox1 {
-    background-image: url(/img/cafemenu1.jpg);
+    background-image: url("https://github.com/Bobchyno/sample_cafe_portfolio/blob/main/cafemenu1.jpg?raw=true");
 }
 
 .scrbox2 {
-    background-image: url(/img/rawbeans1.jpg);
+    background-image: url("https://github.com/Bobchyno/sample_cafe_portfolio/blob/main/rawbeans1.jpg?raw=true");
 }
 
 .scrbox3 {
-    background-image: url(/img/roaster1.jpg);
+    background-image: url("https://github.com/Bobchyno/sample_cafe_portfolio/blob/main/roaster1.jpg?raw=true");
 }
 
 .scrbox4 {
-    background-image: url(/img/roastedbeans1.jpg);
+    background-image: url("https://github.com/Bobchyno/sample_cafe_portfolio/blob/main/roastedbeans1.jpg?raw=true");
 }
 
 @media screen and (max-width: 600px) {
@@ -473,19 +473,19 @@ li {
         display: none;
     }
     .scrbox1 {
-        background: url(/img/cafemenu1sp.jpg) no-repeat top;
+        background: url("https://github.com/Bobchyno/sample_cafe_portfolio/blob/main/cafemenu1sp.jpg?raw=true") no-repeat top;
         height: 100vh;
     }
     .scrbox2 {
-        background: url(/img/rawbeans1sp.jpg) no-repeat center;
+        background: url("https://github.com/Bobchyno/sample_cafe_portfolio/blob/main/rawbeans1sp.jpg?raw=true") no-repeat center;
         height: 100vh;
     }
     .scrbox3 {
-        background: url(/img/roaster1sp.jpg) no-repeat center;
+        background: url("https://github.com/Bobchyno/sample_cafe_portfolio/blob/main/roaster1sp.jpg?raw=true") no-repeat center;
         height: 100vh;
     }
     .scrbox4 {
-        background: url(/img/roastedbeans1sp.jpg) no-repeat center;
+        background: url("https://github.com/Bobchyno/sample_cafe_portfolio/blob/main/roastedbeans1sp.jpg?raw=true") no-repeat center;
         height: 100vh;
     }
 }
