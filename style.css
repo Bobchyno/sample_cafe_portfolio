@@ -203,7 +203,7 @@ li {
     #header {
         max-width: 100%;
         height: auto;
-        flex-direction: column; /* レスポンシブ時は、ロゴとグロナビを縦積みにします。 */
+        flex-direction: column;
     }
     #header li {
         font-size: 0.8rem;
@@ -238,19 +238,6 @@ li {
 #menu {
     margin-bottom: 100px;
 }
-
-/* #menu ul {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    margin-bottom: 50px;
-    padding-left: 0;
-}
-
-#menu li {
-    width: 50%;
-    height: auto;
-} */
 
 #menu img {
     width: 100px;
