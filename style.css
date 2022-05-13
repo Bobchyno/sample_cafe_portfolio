@@ -260,6 +260,7 @@ li {
     padding: 5px;
     cursor: pointer;
     font-family: copperplate, serif;
+    background: #c8c8c8;
 }
 
 .panel-group{
