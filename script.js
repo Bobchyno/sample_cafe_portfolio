@@ -11,7 +11,7 @@ document.getElementById('hamburger').addEventListener('click', function(){
 });
 
 document.addEventListener('DOMContentLoaded',function(){
-  const link = document.querySelectorAll('.hidelink');
+  const link = document.querySelectorAll('hidelink');
   for(let i = 0; i < link.length; i++){
     link[i].addEventListener('click',function(){
       hamburger();
